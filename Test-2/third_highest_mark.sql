@@ -1,0 +1,4 @@
+SELECT name
+FROM marks
+ORDER BY mark DESC
+LIMIT 1 OFFSET 2;

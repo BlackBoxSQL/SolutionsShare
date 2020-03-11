@@ -1,0 +1,19 @@
+Datetime,Server,Process Name,Process ID,Message
+Oct 18 11:07:27,dummy_server,systemd-logind,4405,Removed session 109336.
+Oct 18 11:07:27,dummy_server,systemd-logind,4405,New session 109337 of user ubuntu.
+Oct 18 11:07:31,dummy_server,sshd,25163,Received disconnect from 192.168.12.45: 11: disconnected
+Oct 18 11:07:31,dummy_server,sshd,25041,pam_unix(sshd:session): session closed for user ubuntu
+Oct 18 11:09:01,dummy_server,CRON,26000,pam_unix(cron:session): session opened for user root
+Oct 18 11:09:01,dummy_server,CRON,26000,pam_unix(cron:session): session closed for user root
+Oct 18 11:10:01,dummy_server,CRON,26561,pam_unix(cron:session): session opened for user root
+Oct 18 11:10:05,dummy_server,sshd,26500,Accepted publickey for maateen from 192.168.12.45 port
+Oct 18 11:10:05,dummy_server,sshd,26500,pam_unix(sshd:session): session opened for user maateen
+Oct 18 11:10:05,dummy_server,systemd-logind,4405,Removed session 109337.
+Oct 18 11:10:05,dummy_server,systemd-logind,4405,New session 109338 of user maateen.
+Oct 18 11:10:08,dummy_server,sshd,26721,Authentication refused: bad ownership or modes for file
+Oct 18 11:10:08,dummy_server,sshd,26721,Accepted password for ubuntu from 192.168.12.45 port
+Oct 18 11:10:08,dummy_server,sshd,26721,pam_unix(sshd:session): session opened for user ubuntu
+Oct 18 11:10:08,dummy_server,systemd-logind,4405,New session 109339 of user ubuntu.
+Oct 18 11:10:09,dummy_server,CRON,26561,pam_unix(cron:session): session closed for user root
+Oct 18 11:10:09,dummy_server,sshd,26851,Received disconnect from 192.168.12.45: 11: disconnected
+Oct 18 11:10:09,dummy_server,sshd,26721,pam_unix(sshd:session): session closed for user ubuntu
